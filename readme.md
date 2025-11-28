@@ -4,17 +4,17 @@
 <br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://{{PROJECT_URL}}">
-    <img src="resource/cover_3840x2160.png" alt="{{PROJECT_TITLE}}" width="100%">
+  <a href="https://prettybash.github.io">
+    <img src="resource/cover_3840x2160.png" alt="PrettyBash" width="100%">
   </a>
 </div>
 
 <br>
 <br>
 
-# {{PROJECT_TITLE}}
+# PrettyBash
 
-{{PROJECT_DESCRIPTION}}
+A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
 <br>
 <br>
@@ -188,7 +188,7 @@ See [license][license_md] for more information.
 [license]: https://choosealicense.com/licenses/osl-3.0/
 [license_md]: /license.md
 [security_advisories]: /../../security/advisories/new
-[community]: https://reddit.com/r/{{PROJECT_GITHUB_USERNAME}}
-[documentation]: https://{{PROJECT_DOCUMENTATION_URL}}
-[api_documentation]: https://{{PROJECT_API_DOCUMENTATION_URL}}
-[youtube]: https://youtube.com/@{{PROJECT_YOUTUBE_USERNAME}}
+[community]: https://reddit.com/r/iamprogrammerlk
+[documentation]: https://prettybash.github.io/docs
+[api_documentation]: https://prettybash.github.io/docs
+[youtube]: https://youtube.com/@iamprogrammerlk
