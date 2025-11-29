@@ -19,3 +19,9 @@
 - Fixed: #GITHUB_ISSUE_ID
 
 -->
+
+## v25.10.00 - 2025-11-29
+
+### Added
+
+- First release of the library
